@@ -1,4 +1,4 @@
-# n9t2-com
+# N9T2
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-n9t2-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://n9t2.com/
+N9T2 is an artist‑first creator economy platform built on the XRP Ledger. It enables musicians to upload songs and receive instant payments directly to their wallets, mint their own coins to fund projects, and trade on a decentralized exchange. The service offers low‑fee trading, cross‑chain passage, and tools for promoters, aiming to empower creators with full financial control and transparent royalty distribution.
+
+**Areas:** Music · Blockchain · CreatorEconomy · XRP · DecentralizedFinance
+
+## N9T2 on APIs.io
+
+Everything profiled for N9T2 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/n9t2-com/](https://apis.io/providers/n9t2-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [N9T2 Agent API](https://apis.io/apis/n9t2-com/n9t2-com-agent-api/) — The Agent API from N9T2 — 2 operation(s) for agent.
+- [N9T2 Bridge API](https://apis.io/apis/n9t2-com/n9t2-com-bridge-api/) — The Bridge API from N9T2 — 4 operation(s) for bridge.
+- [N9T2 Gateway API](https://apis.io/apis/n9t2-com/n9t2-com-gateway-api/) — The Gateway API from N9T2 — 3 operation(s) for gateway.
+- [N9T2 Health API](https://apis.io/apis/n9t2-com/n9t2-com-health-api/) — The Health API from N9T2 — 1 operation(s) for health.
+- [N9T2 Pricing API](https://apis.io/apis/n9t2-com/n9t2-com-pricing-api/) — The Pricing API from N9T2 — 1 operation(s) for pricing.
+- [N9T2 Stats API](https://apis.io/apis/n9t2-com/n9t2-com-stats-api/) — The Stats API from N9T2 — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [N9T2 Agentic Access](https://apis.io/agentic-access/n9t2-com/n9t2-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [N9T2 Com Context](https://apis.io/jsonld/n9t2-com/n9t2-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [N9T2 API Rules](https://apis.io/rules/n9t2-com/n9t2-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [N9T2 Domain Security](https://apis.io/security/n9t2-com/n9t2-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://n9t2.com/)
+- [Documentation](https://x402.n9t2.com/)
+- [Getting started](https://x402.n9t2.com/genesis)
+- [API reference](https://x402.n9t2.com/openapi.json)
+- [Support](https://t.me/n9t2bot?startapp=genesis)
+- [Privacy policy](https://x402.n9t2.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 34.2** — thin · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 39.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 32.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/n9t2-com/](https://apis.io/providers/n9t2-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for N9T2: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/n9t2-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
